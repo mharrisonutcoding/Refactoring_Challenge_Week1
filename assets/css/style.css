@@ -111,6 +111,11 @@ p {
     max-width: 150px;
 }
 
+/*Didn't try to consolidate the files below*/
+/*Although similar, these classes have specific styles, didnt 
+want to mess anything up once the code was working and Acceptance criteria was met.*/
+
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
